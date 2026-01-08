@@ -1,0 +1,10 @@
+campaign_id,campaign_name,start_date,end_date,discount_type,discount_value,target_region,campaign_budget,festival_focus
+KOL_DURGA_2024,Durga Puja Special,05-10-2024,15-10-2024,Percentage,30,East,10000000,Durga Puja
+KOL_KALI_2024,Kali Puja Bonanza,31-10-2024,02-11-2024,Percentage,25,East,5000000,Kali Puja
+KOL_POHELA_2024,Pohela Boishakh,14-04-2024,16-04-2024,Flat,150,East,4000000,Bengali New Year
+KOL_SARASWATI_2024,Saraswati Puja,14-02-2024,14-02-2024,Percentage,20,East,3000000,Saraswati Puja
+KOL_SUMMER_2024,Kolkata Summer Special,01-04-2024,15-06-2024,Percentage,15,East,8000000,Summer
+KOL_MONSOON_2024,Monsoon Magic,01-07-2024,30-09-2024,Percentage,18,East,7000000,Monsoon
+KOL_WINTER_2024,Winter Warmers,01-12-2024,31-12-2024,Percentage,20,East,6000000,Winter
+KOL_FISH_2024,Fish Festival,01-08-2024,07-08-2024,Percentage,25,East,5000000,Fish
+KOL_SWEETS_2024,Sweet Sensation,10-11-2024,20-11-2024,Flat,100,East,4000000,Sweets

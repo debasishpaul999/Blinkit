@@ -1,0 +1,55 @@
+store_id,store_name,area,sector,store_location,city,region,pincode,store_type,latitude,longitude,opening_date,store_manager,operational_cost,delivery_radius_km,is_24x7
+BLK_KOL_001,Blinkit Shyambazar Main,Shyambazar,North Kolkata,Shyambazar Main,Kolkata,East,700091,Standard,22.6056,88.3871,25-06-2023,Manager_001,400000,3,TRUE
+BLK_KOL_002,Blinkit Shyambazar Central,Shyambazar,North Kolkata,Shyambazar Central,Kolkata,East,700041,Premium,22.6112,88.3868,10-03-2023,Manager_002,600000,5,TRUE
+BLK_KOL_003,Blinkit Shyambazar East,Shyambazar,North Kolkata,Shyambazar East,Kolkata,East,700096,Standard,22.637,88.3773,07-07-2023,Manager_003,400000,3,TRUE
+BLK_KOL_004,Blinkit Ultadanga Station,Ultadanga,North Kolkata,Ultadanga Station,Kolkata,East,700085,Standard,22.6211,88.3515,08-12-2023,Manager_004,400000,3,FALSE
+BLK_KOL_005,Blinkit Ultadanga Main,Ultadanga,North Kolkata,Ultadanga Main,Kolkata,East,700037,Standard,22.6116,88.3801,16-11-2022,Manager_005,400000,3,FALSE
+BLK_KOL_006,Blinkit Ultadanga Central,Ultadanga,North Kolkata,Ultadanga Central,Kolkata,East,700081,Premium,22.6099,88.3825,19-11-2023,Manager_006,600000,5,FALSE
+BLK_KOL_007,Blinkit Baghbazar Main,Baghbazar,North Kolkata,Baghbazar Main,Kolkata,East,700079,Standard,22.621,88.3725,25-03-2023,Manager_007,400000,3,TRUE
+BLK_KOL_008,Blinkit Baghbazar Ghat,Baghbazar,North Kolkata,Baghbazar Ghat,Kolkata,East,700045,Standard,22.6405,88.3503,08-04-2023,Manager_008,400000,3,FALSE
+BLK_KOL_009,Blinkit Baghbazar Central,Baghbazar,North Kolkata,Baghbazar Central,Kolkata,East,700030,Premium,22.6349,88.367,19-08-2022,Manager_009,600000,5,FALSE
+BLK_KOL_010,Blinkit Esplanade East,Esplanade,Central Kolkata,Esplanade East,Kolkata,East,700029,Standard,22.5608,88.3705,22-01-2022,Manager_010,400000,3,FALSE
+BLK_KOL_011,Blinkit Esplanade Central,Esplanade,Central Kolkata,Esplanade Central,Kolkata,East,700023,Premium,22.5546,88.3439,24-08-2022,Manager_011,600000,5,FALSE
+BLK_KOL_012,Blinkit Esplanade Metro,Esplanade,Central Kolkata,Esplanade Metro,Kolkata,East,700054,Standard,22.5802,88.3723,08-01-2022,Manager_012,400000,3,FALSE
+BLK_KOL_013,Blinkit Park Street Main,Park Street,Central Kolkata,Park Street Main,Kolkata,East,700068,Standard,22.5768,88.3789,09-10-2023,Manager_013,400000,3,FALSE
+BLK_KOL_014,Blinkit Park Street Premium,Park Street,Central Kolkata,Park Street Premium,Kolkata,East,700058,Premium,22.5539,88.3517,11-03-2022,Manager_014,600000,5,TRUE
+BLK_KOL_015,Blinkit Park Street Food Street,Park Street,Central Kolkata,Park Street Food Street,Kolkata,East,700090,Standard,22.5809,88.3745,05-12-2022,Manager_015,400000,3,FALSE
+BLK_KOL_016,Blinkit B.B.D. Bagh North,B.B.D. Bagh,Central Kolkata,B.B.D. Bagh North,Kolkata,East,700083,Standard,22.5596,88.3428,01-09-2022,Manager_016,400000,3,FALSE
+BLK_KOL_017,Blinkit B.B.D. Bagh Central,B.B.D. Bagh,Central Kolkata,B.B.D. Bagh Central,Kolkata,East,700094,Premium,22.5614,88.3516,13-05-2023,Manager_017,600000,5,FALSE
+BLK_KOL_018,Blinkit B.B.D. Bagh South,B.B.D. Bagh,Central Kolkata,B.B.D. Bagh South,Kolkata,East,700020,Standard,22.5928,88.3747,16-05-2022,Manager_018,400000,3,TRUE
+BLK_KOL_019,Blinkit Ballygunge Phari,Ballygunge,South Kolkata,Ballygunge Phari,Kolkata,East,700058,Standard,22.4995,88.3581,08-08-2023,Manager_019,400000,3,FALSE
+BLK_KOL_020,Blinkit Ballygunge Central,Ballygunge,South Kolkata,Ballygunge Central,Kolkata,East,700056,Premium,22.4914,88.3413,06-09-2022,Manager_020,600000,5,TRUE
+BLK_KOL_021,Blinkit Ballygunge Lakes,Ballygunge,South Kolkata,Ballygunge Lakes,Kolkata,East,700095,Standard,22.4987,88.3762,21-02-2023,Manager_021,400000,3,FALSE
+BLK_KOL_022,Blinkit Gariahat Main,Gariahat,South Kolkata,Gariahat Main,Kolkata,East,700092,Standard,22.485,88.3581,10-04-2022,Manager_022,400000,3,FALSE
+BLK_KOL_023,Blinkit Gariahat Crossing,Gariahat,South Kolkata,Gariahat Crossing,Kolkata,East,700078,Standard,22.531,88.3298,29-12-2022,Manager_023,400000,3,FALSE
+BLK_KOL_024,Blinkit Gariahat South,Gariahat,South Kolkata,Gariahat South,Kolkata,East,700058,Standard,22.4989,88.3755,24-04-2023,Manager_024,400000,3,TRUE
+BLK_KOL_025,Blinkit Tollygunge Metro,Tollygunge,South Kolkata,Tollygunge Metro,Kolkata,East,700098,Standard,22.519,88.3611,25-02-2022,Manager_025,400000,3,FALSE
+BLK_KOL_026,Blinkit Tollygunge Main,Tollygunge,South Kolkata,Tollygunge Main,Kolkata,East,700017,Standard,22.496,88.3219,24-10-2023,Manager_026,400000,3,FALSE
+BLK_KOL_027,Blinkit Tollygunge Club,Tollygunge,South Kolkata,Tollygunge Club,Kolkata,East,700050,Standard,22.5081,88.324,17-02-2023,Manager_027,400000,3,TRUE
+BLK_KOL_028,Blinkit Salt Lake Sector 1,Salt Lake,Salt Lake & New Town,Salt Lake Sector 1,Kolkata,East,700182,Standard,22.6138,88.4157,22-04-2022,Manager_028,400000,3,FALSE
+BLK_KOL_029,Blinkit Salt Lake Sector 5,Salt Lake,Salt Lake & New Town,Salt Lake Sector 5,Kolkata,East,700193,Standard,22.595,88.4442,14-07-2022,Manager_029,400000,3,FALSE
+BLK_KOL_030,Blinkit Salt Lake Central,Salt Lake,Salt Lake & New Town,Salt Lake Central,Kolkata,East,700192,Premium,22.5929,88.4132,24-05-2022,Manager_030,600000,5,FALSE
+BLK_KOL_031,Blinkit New Town Action Area 1,New Town,Salt Lake & New Town,New Town Action Area 1,Kolkata,East,700141,Standard,22.6072,88.4269,13-10-2022,Manager_031,400000,3,FALSE
+BLK_KOL_032,Blinkit New Town Action Area 2,New Town,Salt Lake & New Town,New Town Action Area 2,Kolkata,East,700184,Standard,22.5914,88.4292,19-03-2022,Manager_032,400000,3,FALSE
+BLK_KOL_033,Blinkit New Town Central,New Town,Salt Lake & New Town,New Town Central,Kolkata,East,700156,Premium,22.581,88.4499,18-07-2023,Manager_033,600000,5,FALSE
+BLK_KOL_034,Blinkit Rajarhat Main,Rajarhat,Salt Lake & New Town,Rajarhat Main,Kolkata,East,700175,Standard,22.5947,88.4378,30-10-2023,Manager_034,400000,3,TRUE
+BLK_KOL_035,Blinkit Rajarhat Central,Rajarhat,Salt Lake & New Town,Rajarhat Central,Kolkata,East,700124,Premium,22.5776,88.408,16-01-2022,Manager_035,600000,5,TRUE
+BLK_KOL_036,Blinkit Rajarhat Eco Park,Rajarhat,Salt Lake & New Town,Rajarhat Eco Park,Kolkata,East,700197,Standard,22.5911,88.4032,31-08-2022,Manager_036,400000,3,FALSE
+BLK_KOL_037,Blinkit EM Bypass Ruby,EM Bypass,East Kolkata,EM Bypass Ruby,Kolkata,East,700058,Standard,22.5417,88.4034,13-05-2023,Manager_037,400000,3,FALSE
+BLK_KOL_038,Blinkit EM Bypass Science City,EM Bypass,East Kolkata,EM Bypass Science City,Kolkata,East,700042,Standard,22.568,88.423,15-02-2023,Manager_038,400000,3,TRUE
+BLK_KOL_039,Blinkit EM Bypass Central,EM Bypass,East Kolkata,EM Bypass Central,Kolkata,East,700011,Premium,22.5476,88.3857,18-06-2022,Manager_039,600000,5,FALSE
+BLK_KOL_040,Blinkit Kasba Main,Kasba,East Kolkata,Kasba Main,Kolkata,East,700078,Standard,22.5526,88.4184,04-02-2023,Manager_040,400000,3,FALSE
+BLK_KOL_041,Blinkit Kasba Central,Kasba,East Kolkata,Kasba Central,Kolkata,East,700053,Premium,22.5078,88.4017,11-04-2023,Manager_041,600000,5,FALSE
+BLK_KOL_042,Blinkit Kasba East,Kasba,East Kolkata,Kasba East,Kolkata,East,700068,Standard,22.5002,88.4161,15-12-2023,Manager_042,400000,3,TRUE
+BLK_KOL_043,Blinkit Behala Main,Behala,East Kolkata,Behala Main,Kolkata,East,700043,Standard,22.568,88.4181,24-07-2023,Manager_043,400000,3,FALSE
+BLK_KOL_044,Blinkit Behala Central,Behala,East Kolkata,Behala Central,Kolkata,East,700074,Premium,22.5639,88.4235,14-05-2023,Manager_044,600000,5,FALSE
+BLK_KOL_045,Blinkit Behala Thakurpukur,Behala,East Kolkata,Behala Thakurpukur,Kolkata,East,700048,Standard,22.5589,88.4054,31-10-2022,Manager_045,400000,3,FALSE
+BLK_KOL_046,Blinkit Howrah Station,Howrah,Howrah District,Howrah Station,Kolkata,East,711135,Standard,22.5576,88.3381,01-03-2022,Manager_046,400000,3,FALSE
+BLK_KOL_047,Blinkit Howrah Central,Howrah,Howrah District,Howrah Central,Kolkata,East,711179,Premium,22.5977,88.3461,10-07-2023,Manager_047,600000,5,FALSE
+BLK_KOL_048,Blinkit Howrah Shibpur,Howrah,Howrah District,Howrah Shibpur,Kolkata,East,711110,Standard,22.5799,88.3244,18-11-2022,Manager_048,400000,3,FALSE
+BLK_KOL_049,Blinkit Shibpur Main,Shibpur,Howrah District,Shibpur Main,Kolkata,East,711124,Standard,22.5965,88.3439,22-08-2023,Manager_049,400000,3,FALSE
+BLK_KOL_050,Blinkit Shibpur Botanical,Shibpur,Howrah District,Shibpur Botanical,Kolkata,East,711149,Standard,22.562,88.312,28-06-2023,Manager_050,400000,3,FALSE
+BLK_KOL_051,Blinkit Shibpur Central,Shibpur,Howrah District,Shibpur Central,Kolkata,East,711182,Premium,22.5973,88.3043,05-06-2023,Manager_051,600000,5,FALSE
+BLK_KOL_052,Blinkit Santragachi Station,Santragachi,Howrah District,Santragachi Station,Kolkata,East,711172,Standard,22.5908,88.3489,10-07-2022,Manager_052,400000,3,FALSE
+BLK_KOL_053,Blinkit Santragachi Central,Santragachi,Howrah District,Santragachi Central,Kolkata,East,711178,Premium,22.5883,88.3064,11-03-2022,Manager_053,600000,5,FALSE
+BLK_KOL_054,Blinkit Santragachi Lake,Santragachi,Howrah District,Santragachi Lake,Kolkata,East,711170,Standard,22.5973,88.3083,29-08-2022,Manager_054,400000,3,FALSE
