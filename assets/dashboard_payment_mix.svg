@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#f8fafc"/>
+<text x="60" y="70" style="font:700 34px Arial;fill:#111827">Payment Method Mix</text>
+<text x="60" y="105" style="font:400 18px Arial;fill:#4b5563">Distribution of orders by payment_method</text>
+<rect x="80" y="120" width="1040" height="460" rx="16" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="114.7" y="160.0" width="104.0" height="370.0" rx="8" fill="#84cc16"/>
+<text x="166.7" y="560" text-anchor="middle" style="font:400 13px Arial;fill:#374151">UPI</text>
+<text x="166.7" y="152.0" text-anchor="middle" style="font:600 13px Arial;fill:#111827">40,346</text>
+<rect x="288.0" y="429.9" width="104.0" height="100.1" rx="8" fill="#84cc16"/>
+<text x="340.0" y="560" text-anchor="middle" style="font:400 13px Arial;fill:#374151">Cash on Delivery</text>
+<text x="340.0" y="421.9" text-anchor="middle" style="font:600 13px Arial;fill:#111827">10,913</text>
+<rect x="461.3" y="461.0" width="104.0" height="69.0" rx="8" fill="#84cc16"/>
+<text x="513.3" y="560" text-anchor="middle" style="font:400 13px Arial;fill:#374151">Credit Card</text>
+<text x="513.3" y="453.0" text-anchor="middle" style="font:600 13px Arial;fill:#111827">7,527</text>
+<rect x="634.7" y="461.4" width="104.0" height="68.6" rx="8" fill="#84cc16"/>
+<text x="686.7" y="560" text-anchor="middle" style="font:400 13px Arial;fill:#374151">Debit Card</text>
+<text x="686.7" y="453.4" text-anchor="middle" style="font:600 13px Arial;fill:#111827">7,483</text>
+<rect x="808.0" y="496.4" width="104.0" height="33.6" rx="8" fill="#84cc16"/>
+<text x="860.0" y="560" text-anchor="middle" style="font:400 13px Arial;fill:#374151">Wallet</text>
+<text x="860.0" y="488.4" text-anchor="middle" style="font:600 13px Arial;fill:#111827">3,661</text>
+<rect x="981.3" y="496.4" width="104.0" height="33.6" rx="8" fill="#84cc16"/>
+<text x="1033.3" y="560" text-anchor="middle" style="font:400 13px Arial;fill:#374151">Net Banking</text>
+<text x="1033.3" y="488.4" text-anchor="middle" style="font:600 13px Arial;fill:#111827">3,661</text>
+</svg>
