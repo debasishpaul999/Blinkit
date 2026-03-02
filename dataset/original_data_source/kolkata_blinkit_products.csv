@@ -1,0 +1,167 @@
+product_id,product_name,category,subcategory,unit_price,cost_price,supplier_id,is_active
+PROD_00001,Mango (1kg),Fruits & Vegetables,General,192.99,137.78,SUPP_038,TRUE
+PROD_00002,Banana (1kg),Fruits & Vegetables,General,51.89,37.56,SUPP_027,TRUE
+PROD_00003,Apple (1kg),Fruits & Vegetables,General,215.74,153.83,SUPP_021,TRUE
+PROD_00004,Orange (1kg),Fruits & Vegetables,General,117.39,75.23,SUPP_046,TRUE
+PROD_00005,Guava (1kg),Fruits & Vegetables,General,72.57,47.4,SUPP_009,TRUE
+PROD_00006,Tomato (1kg),Fruits & Vegetables,General,63.58,41.97,SUPP_021,TRUE
+PROD_00007,Potato (1kg),Fruits & Vegetables,General,38.94,30.65,SUPP_001,TRUE
+PROD_00008,Onion (1kg),Fruits & Vegetables,General,43.75,34.99,SUPP_007,TRUE
+PROD_00009,Brinjal (1kg),Fruits & Vegetables,General,41.47,26.65,SUPP_017,TRUE
+PROD_00010,Cauliflower (1pc),Fruits & Vegetables,General,32.65,21.87,SUPP_005,TRUE
+PROD_00011,Cabbage (1pc),Fruits & Vegetables,General,38.19,25.74,SUPP_011,TRUE
+PROD_00012,Spinach (250g),Fruits & Vegetables,General,19.38,13.73,SUPP_020,TRUE
+PROD_00013,Coriander Leaves (100g),Fruits & Vegetables,General,16.12,12.85,SUPP_042,TRUE
+PROD_00014,Green Chilli (100g),Fruits & Vegetables,General,12.64,9.28,SUPP_036,TRUE
+PROD_00015,Ginger (250g),Fruits & Vegetables,General,35.99,26.37,SUPP_009,TRUE
+PROD_00016,Garlic (250g),Fruits & Vegetables,General,45.29,35.23,SUPP_048,TRUE
+PROD_00017,Lemon (250g),Fruits & Vegetables,General,25.53,16.71,SUPP_039,TRUE
+PROD_00018,Cucumber (500g),Fruits & Vegetables,General,28.16,18.83,SUPP_044,TRUE
+PROD_00019,Carrot (500g),Fruits & Vegetables,General,42.68,27.86,SUPP_032,TRUE
+PROD_00020,Radish (500g),Fruits & Vegetables,General,22.51,17.6,SUPP_004,TRUE
+PROD_00021,Rohu Fish (500g),Fish & Meat,General,209.23,143.26,SUPP_018,TRUE
+PROD_00022,Katla Fish (500g),Fish & Meat,General,254.41,169.62,SUPP_009,TRUE
+PROD_00023,Pomfret Fish (500g),Fish & Meat,General,527.42,344.09,SUPP_048,TRUE
+PROD_00024,Hilsa Fish (500g),Fish & Meat,General,632.55,468.8,SUPP_036,TRUE
+PROD_00025,Prawns (500g),Fish & Meat,General,301.45,185.41,SUPP_045,TRUE
+PROD_00026,Chicken Breast (500g),Fish & Meat,General,272.31,193.1,SUPP_024,TRUE
+PROD_00027,Chicken Legs (500g),Fish & Meat,General,220.78,139,SUPP_009,TRUE
+PROD_00028,Chicken Curry Cut (1kg),Fish & Meat,General,304.18,204.69,SUPP_003,TRUE
+PROD_00029,Mutton (500g),Fish & Meat,General,484.84,311.27,SUPP_016,TRUE
+PROD_00030,Eggs (6 pcs),Fish & Meat,General,73.34,49.19,SUPP_036,TRUE
+PROD_00031,Eggs (12 pcs),Fish & Meat,General,136.52,93.01,SUPP_040,TRUE
+PROD_00032,Duck Eggs (6 pcs),Fish & Meat,General,94.99,74.58,SUPP_016,TRUE
+PROD_00033,Fish Fillet (250g),Fish & Meat,General,193.23,153.66,SUPP_012,TRUE
+PROD_00034,Chicken Sausages (200g),Fish & Meat,General,155.26,93.92,SUPP_048,TRUE
+PROD_00035,Amul Taaza Milk (500ml),Dairy & Eggs,General,39.62,29.97,SUPP_027,TRUE
+PROD_00036,Amul Gold Milk (500ml),Dairy & Eggs,General,49.01,37.88,SUPP_016,TRUE
+PROD_00037,Amul Butter (100g),Dairy & Eggs,General,56.33,42.67,SUPP_007,TRUE
+PROD_00038,Amul Cheese (200g),Dairy & Eggs,General,113.83,69.18,SUPP_031,TRUE
+PROD_00039,Amul Paneer (200g),Dairy & Eggs,General,94.45,72.09,SUPP_030,TRUE
+PROD_00040,Amul Dahi (400g),Dairy & Eggs,General,73.5,56.16,SUPP_015,TRUE
+PROD_00041,Amul Mithai Mate (500g),Dairy & Eggs,General,211.15,154.56,SUPP_026,TRUE
+PROD_00042,Mother Dairy Milk (500ml),Dairy & Eggs,General,34.64,26.77,SUPP_050,TRUE
+PROD_00043,Mother Dairy Curd (500g),Dairy & Eggs,General,67.79,49.37,SUPP_026,TRUE
+PROD_00044,Mother Dairy Mishti Doi (200g),Dairy & Eggs,General,66.8,51.35,SUPP_022,TRUE
+PROD_00045,Gir Cow Milk (500ml),Dairy & Eggs,General,69.39,43.24,SUPP_017,TRUE
+PROD_00046,Buffalo Milk (500ml),Dairy & Eggs,General,51.79,41.04,SUPP_017,TRUE
+PROD_00047,Chenna Paneer (250g),Dairy & Eggs,General,80.77,58.1,SUPP_023,TRUE
+PROD_00048,Sandesh (250g),Dairy & Eggs,General,141.86,94.01,SUPP_039,TRUE
+PROD_00049,Rasgulla (500g),Dairy & Eggs,General,129.53,80.71,SUPP_037,TRUE
+PROD_00050,Gobindo Bhog Rice (1kg),Rice & Atta,General,83.8,51.02,SUPP_028,TRUE
+PROD_00051,Basmati Rice (1kg),Rice & Atta,General,120.05,94.25,SUPP_035,TRUE
+PROD_00052,Sona Masoori Rice (1kg),Rice & Atta,General,73.74,58.11,SUPP_048,TRUE
+PROD_00053,Brown Rice (1kg),Rice & Atta,General,113.41,76.31,SUPP_005,TRUE
+PROD_00054,Jeera Rice (1kg),Rice & Atta,General,88.98,69.77,SUPP_040,TRUE
+PROD_00055,Aashirvaad Atta (1kg),Rice & Atta,General,53.14,40.9,SUPP_047,TRUE
+PROD_00056,Pillsbury Atta (1kg),Rice & Atta,General,64,44.89,SUPP_043,TRUE
+PROD_00057,Whole Wheat Atta (1kg),Rice & Atta,General,49.08,33.4,SUPP_019,TRUE
+PROD_00058,Besan (500g),Rice & Atta,General,65.54,41.84,SUPP_043,TRUE
+PROD_00059,Suji (500g),Rice & Atta,General,49.4,36.33,SUPP_012,TRUE
+PROD_00060,Maida (1kg),Rice & Atta,General,46.16,30.47,SUPP_036,TRUE
+PROD_00061,Poha (500g),Rice & Atta,General,38.34,25.33,SUPP_014,TRUE
+PROD_00062,Murmura (500g),Rice & Atta,General,29.3,20.98,SUPP_042,TRUE
+PROD_00063,Chira (500g),Rice & Atta,General,38.22,26.31,SUPP_044,TRUE
+PROD_00064,Radhuni Panch Phoron (100g),Spices & Masalas,General,44.27,30.75,SUPP_048,TRUE
+PROD_00065,Kashmiri Red Chilli Powder (100g),Spices & Masalas,General,53.39,32.94,SUPP_033,TRUE
+PROD_00066,Turmeric Powder (100g),Spices & Masalas,General,39.96,28.92,SUPP_006,TRUE
+PROD_00067,Coriander Powder (100g),Spices & Masalas,General,47.28,35.47,SUPP_044,TRUE
+PROD_00068,Cumin Powder (100g),Spices & Masalas,General,44.66,34,SUPP_010,TRUE
+PROD_00069,Garam Masala (100g),Spices & Masalas,General,60.49,39.26,SUPP_031,TRUE
+PROD_00070,Biriyani Masala (100g),Spices & Masalas,General,82.23,61.97,SUPP_030,TRUE
+PROD_00071,Mustard Oil (1L),Spices & Masalas,General,196.58,142.71,SUPP_013,TRUE
+PROD_00072,Soybean Oil (1L),Spices & Masalas,General,181.55,122.87,SUPP_026,TRUE
+PROD_00073,Sunflower Oil (1L),Spices & Masalas,General,177.32,129.66,SUPP_001,TRUE
+PROD_00074,Ghee (500g),Spices & Masalas,General,389.27,300.55,SUPP_007,TRUE
+PROD_00075,Mustard Seeds (100g),Spices & Masalas,General,41.68,26.83,SUPP_045,TRUE
+PROD_00076,Cumin Seeds (100g),Spices & Masalas,General,60.36,36.82,SUPP_016,TRUE
+PROD_00077,Fennel Seeds (100g),Spices & Masalas,General,58.35,36.43,SUPP_009,TRUE
+PROD_00078,Bay Leaves (50g),Spices & Masalas,General,28.01,20.55,SUPP_036,TRUE
+PROD_00079,Haldirams Bhujia (200g),Snacks & Biscuits,General,91.91,72.61,SUPP_029,TRUE
+PROD_00080,Haldirams Aloo Bhujia (200g),Snacks & Biscuits,General,97.25,72.34,SUPP_033,TRUE
+PROD_00081,Haldirams Mixture (200g),Snacks & Biscuits,General,98.53,76.99,SUPP_029,TRUE
+PROD_00082,Haldirams Namkeen (250g),Snacks & Biscuits,General,126.92,95.03,SUPP_031,TRUE
+PROD_00083,Bikano Namkeen (200g),Snacks & Biscuits,General,79,59.28,SUPP_041,TRUE
+PROD_00084,Bikano Chanachur (200g),Snacks & Biscuits,General,80.55,60.86,SUPP_032,TRUE
+PROD_00085,Parle-G Biscuits (100g),Snacks & Biscuits,General,31.27,20.48,SUPP_005,TRUE
+PROD_00086,Monaco Biscuits (100g),Snacks & Biscuits,General,37.14,24.02,SUPP_022,TRUE
+PROD_00087,Krackjack Biscuits (100g),Snacks & Biscuits,General,38.2,27.04,SUPP_009,TRUE
+PROD_00088,Oreo Biscuits (137g),Snacks & Biscuits,General,41.51,28.08,SUPP_010,TRUE
+PROD_00089,Hide & Seek Biscuits (100g),Snacks & Biscuits,General,52.06,31.91,SUPP_027,TRUE
+PROD_00090,Good Day Biscuits (200g),Snacks & Biscuits,General,54.96,38.1,SUPP_004,TRUE
+PROD_00091,Lays Chips (50g),Snacks & Biscuits,General,21.03,14.39,SUPP_050,TRUE
+PROD_00092,Kurkure (50g),Snacks & Biscuits,General,22.92,16.94,SUPP_049,TRUE
+PROD_00093,Bingo Chips (50g),Snacks & Biscuits,General,20.88,14.52,SUPP_023,TRUE
+PROD_00094,Act II Popcorn (100g),Snacks & Biscuits,General,49.48,33.55,SUPP_027,TRUE
+PROD_00095,Coca-Cola (2L),Beverages,General,95.38,71.24,SUPP_039,TRUE
+PROD_00096,Pepsi (1.5L),Beverages,General,93.98,65.56,SUPP_018,TRUE
+PROD_00097,Sprite (750ml),Beverages,General,54.36,32.93,SUPP_022,TRUE
+PROD_00098,Fanta (750ml),Beverages,General,56.69,43.06,SUPP_047,TRUE
+PROD_00099,Thums Up (750ml),Beverages,General,51.65,35.82,SUPP_009,TRUE
+PROD_00100,Maaza (1L),Beverages,General,94.71,66.94,SUPP_026,TRUE
+PROD_00101,Frooti (1L),Beverages,General,83.88,61.45,SUPP_006,TRUE
+PROD_00102,Appy Fizz (750ml),Beverages,General,69.64,43.67,SUPP_030,TRUE
+PROD_00103,Red Bull (250ml),Beverages,General,117.73,76.76,SUPP_021,TRUE
+PROD_00104,Monster Energy (500ml),Beverages,General,124.23,82.66,SUPP_049,TRUE
+PROD_00105,Tropicana Juice (1L),Beverages,General,197.59,129.55,SUPP_027,TRUE
+PROD_00106,Real Fruit Juice (1L),Beverages,General,166.31,102.51,SUPP_002,TRUE
+PROD_00107,Paper Boat Juice (250ml),Beverages,General,42.49,25.94,SUPP_023,TRUE
+PROD_00108,B Natural Juice (1L),Beverages,General,155.61,95.5,SUPP_042,TRUE
+PROD_00109,Brooke Bond Red Label Tea (500g),Beverages,General,151.21,91.66,SUPP_016,TRUE
+PROD_00110,Taj Mahal Tea (250g),Beverages,General,209.97,126.84,SUPP_010,TRUE
+PROD_00111,Lipton Green Tea (25 bags),Beverages,General,127.16,88.34,SUPP_008,TRUE
+PROD_00112,Nescafe Coffee (50g),Beverages,General,91.28,58.75,SUPP_045,TRUE
+PROD_00113,Bru Coffee (100g),Beverages,General,95.12,64.09,SUPP_039,TRUE
+PROD_00114,Davidoff Coffee (200g),Beverages,General,460.72,345.35,SUPP_008,TRUE
+PROD_00115,Colgate Toothpaste (100g),Personal Care,General,96.67,61.17,SUPP_020,TRUE
+PROD_00116,Pepsodent Toothpaste (100g),Personal Care,General,76.62,46.37,SUPP_020,TRUE
+PROD_00117,Closeup Toothpaste (100g),Personal Care,General,88.64,69.28,SUPP_025,TRUE
+PROD_00118,Sensodyne Toothpaste (75g),Personal Care,General,131.9,98,SUPP_005,TRUE
+PROD_00119,Oral-B Toothbrush (1pc),Personal Care,General,103.68,79.43,SUPP_016,TRUE
+PROD_00120,Dove Soap (100g),Personal Care,General,46.53,35.11,SUPP_044,TRUE
+PROD_00121,Lux Soap (75g),Personal Care,General,36,22.47,SUPP_037,TRUE
+PROD_00122,Pears Soap (75g),Personal Care,General,42.83,28.67,SUPP_028,TRUE
+PROD_00123,Dettol Soap (125g),Personal Care,General,49.92,30.64,SUPP_042,TRUE
+PROD_00124,Lifebuoy Soap (125g),Personal Care,General,38.41,29.57,SUPP_032,TRUE
+PROD_00125,Head & Shoulders Shampoo (180ml),Personal Care,General,184.22,145.93,SUPP_041,TRUE
+PROD_00126,Dove Shampoo (180ml),Personal Care,General,244.58,169.24,SUPP_010,TRUE
+PROD_00127,Pantene Shampoo (180ml),Personal Care,General,207.42,154.89,SUPP_042,TRUE
+PROD_00128,TRESemme Shampoo (340ml),Personal Care,General,377.01,287.14,SUPP_035,TRUE
+PROD_00129,Garnier Shampoo (175ml),Personal Care,General,180.99,125.42,SUPP_047,TRUE
+PROD_00130,Nivea Deodorant (150ml),Personal Care,General,247.4,164.39,SUPP_016,TRUE
+PROD_00131,Ponds Cream (50g),Personal Care,General,113.23,69.9,SUPP_029,TRUE
+PROD_00132,Lakme Lipstick,Personal Care,General,286.58,198.58,SUPP_040,TRUE
+PROD_00133,Maybelline Mascara,Personal Care,General,433.64,289.36,SUPP_032,TRUE
+PROD_00134,Surf Excel Detergent (1kg),Home Care,General,242.55,154.35,SUPP_014,TRUE
+PROD_00135,Ariel Detergent (1kg),Home Care,General,237.74,154.93,SUPP_018,TRUE
+PROD_00136,Tide Detergent (1kg),Home Care,General,224.02,165.82,SUPP_018,TRUE
+PROD_00137,Rin Detergent (1kg),Home Care,General,177.79,125.04,SUPP_013,TRUE
+PROD_00138,Ghadi Detergent (1kg),Home Care,General,123.42,91.83,SUPP_032,TRUE
+PROD_00139,Vim Dishwash Liquid (500ml),Home Care,General,136.66,88.56,SUPP_031,TRUE
+PROD_00140,Pril Dishwash Liquid (500ml),Home Care,General,129.38,90.33,SUPP_002,TRUE
+PROD_00141,Lizol Floor Cleaner (1L),Home Care,General,184.65,118.98,SUPP_045,TRUE
+PROD_00142,Harpic Toilet Cleaner (1L),Home Care,General,169.73,124.38,SUPP_024,TRUE
+PROD_00143,Domex Toilet Cleaner (1L),Home Care,General,168.93,119.3,SUPP_028,TRUE
+PROD_00144,All Out Mosquito Repellent (45ml),Home Care,General,149.9,106.44,SUPP_023,TRUE
+PROD_00145,Good Knight Mosquito Repellent (50ml),Home Care,General,131.09,85.75,SUPP_017,TRUE
+PROD_00146,Hit Mosquito Killer (500ml),Home Care,General,191.53,142.55,SUPP_021,TRUE
+PROD_00147,Baygon Spray (600ml),Home Care,General,207.17,146.51,SUPP_049,TRUE
+PROD_00148,Mortein Spray (600ml),Home Care,General,224.51,143.31,SUPP_048,TRUE
+PROD_00149,Rosogolla (500g),Sweet & Confectionery,General,114.53,85.31,SUPP_049,TRUE
+PROD_00150,Sandesh (250g),Sweet & Confectionery,General,135.74,89.13,SUPP_007,TRUE
+PROD_00151,Mihidana (250g),Sweet & Confectionery,General,104.98,69.21,SUPP_024,TRUE
+PROD_00152,Sitabhog (250g),Sweet & Confectionery,General,95.38,57.5,SUPP_035,TRUE
+PROD_00153,Chomchom (250g),Sweet & Confectionery,General,113.8,69.31,SUPP_004,TRUE
+PROD_00154,Pantua (250g),Sweet & Confectionery,General,116.6,86.22,SUPP_009,TRUE
+PROD_00155,Ledikeni (250g),Sweet & Confectionery,General,149.14,111.94,SUPP_007,TRUE
+PROD_00156,Kalojam (250g),Sweet & Confectionery,General,146.18,104.49,SUPP_031,TRUE
+PROD_00157,Darbesh (250g),Sweet & Confectionery,General,84.36,56.37,SUPP_004,TRUE
+PROD_00158,Moa (250g),Sweet & Confectionery,General,67.57,52.19,SUPP_008,TRUE
+PROD_00159,Gulab Jamun (250g),Sweet & Confectionery,General,104.66,71.19,SUPP_005,TRUE
+PROD_00160,Rasmalai (250g),Sweet & Confectionery,General,163.08,120.24,SUPP_010,TRUE
+PROD_00161,Cadbury Dairy Milk (60g),Sweet & Confectionery,General,52.24,37.22,SUPP_020,TRUE
+PROD_00162,Nestle KitKat (38g),Sweet & Confectionery,General,30.85,20.04,SUPP_036,TRUE
+PROD_00163,Mars Chocolate (50g),Sweet & Confectionery,General,51.47,37.12,SUPP_040,TRUE
+PROD_00164,Ferrero Rocher (150g),Sweet & Confectionery,General,372.57,262.48,SUPP_029,TRUE
+PROD_00165,Gems Chocolate (40g),Sweet & Confectionery,General,29.09,19.18,SUPP_038,TRUE
+PROD_00166,Munch Chocolate (30g),Sweet & Confectionery,General,24.9,16.46,SUPP_040,TRUE
